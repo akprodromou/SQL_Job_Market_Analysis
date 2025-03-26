@@ -11,10 +11,8 @@ The demand for Data Analysts continues to grow, driven by the need for data-driv
 
 ## 3. Tools Used
 - **SQL** for data querying and analysis
-- **Python (Pandas, Matplotlib)** for visualization and insights
 - **CSV files** for structured data storage
 - **Git & GitHub** for version control
-- **VS Code** as the primary development environment
 
 ## 4. The Analysis
 
